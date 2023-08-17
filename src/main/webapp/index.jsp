@@ -11,8 +11,8 @@
 </style>
 </head>
 <body>
-<h1>Welcome to HDFCSA BANK</h1>
-<p>This is a sample Welcome to HDFCSA BANK application for 2023 July Morrning Batch.</p>
+<h1>Welcome to everyone</h1>
+<p>This is a sample Welcome to everyone application for 2023 July Morrning Batch.</p>
 </body>
 </html>
 
