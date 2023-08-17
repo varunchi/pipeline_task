@@ -3,10 +3,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Welcome to HDFCSA BANK</title>
+<title>Welcome to everyone</title>
 <style>
   body {
-    background-color: red;
+    background-color: rgb(70, 28, 162);
   }
 </style>
 </head>
